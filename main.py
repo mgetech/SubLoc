@@ -18,8 +18,8 @@ Please follow the steps below, before running the script:
 3.   Run the following cells in order
 """
 
-!unzip dataset.zip
-!pip install biopython
+#!unzip dataset.zip
+#!pip install biopython
 
 # Commented out IPython magic to ensure Python compatibility.
 # %tensorflow_version 1.x

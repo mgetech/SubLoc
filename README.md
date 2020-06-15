@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894900.svg)](https://doi.org/10.5281/zenodo.3894900)
+
+
 # Usage:
 It is strongly recommended that main.ipynb is opened and run on a GPU equipped system such as [Google Colab](https://colab.research.google.com/).
 
